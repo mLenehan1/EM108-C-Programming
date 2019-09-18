@@ -1,0 +1,7 @@
+EQP1 MouseCage 50
+EQP2 DogBed 30
+EQP3 TravelCage 50
+EQP4 CatCage 40
+EQP5 FishBowl 20
+EQP6 FishTank 100
+EQP7 RabbitCage 100

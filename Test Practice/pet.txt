@@ -1,0 +1,11 @@
+dog Dalmation 3 100 EQP3
+mouse Black 4 10 EQP1
+dog Retriever 9 50 EQP2
+dog Wolf 7 300 EQP2
+cat Persian 3 100 EQP3
+cat Munchkin 8 150 EQP4
+cat Manx 3 100 EQP3
+rabbit Angora 2 50 EQP7
+rabbit Alaska 2 30 EQP7
+dog Terrier 9 300 EQP3
+fish Gold 4 50 EQP5

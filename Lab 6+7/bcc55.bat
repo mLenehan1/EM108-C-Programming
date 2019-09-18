@@ -1,0 +1,2 @@
+SET PATH=C:\borland\bcc55\bin;%PATH%
+C:\WINDOWS\SYSTEM32\CMD.EXE
